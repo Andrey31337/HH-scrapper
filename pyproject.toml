@@ -8,6 +8,9 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 requests = "^2.26.0"
 beautifulsoup4 = "^4.9.3"
+lxml = "^4.6.3"
+asyncio = "^3.4.3"
+aiohttp = "^3.7.4"
 
 [tool.poetry.dev-dependencies]
 
